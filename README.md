@@ -39,7 +39,7 @@ The project utilizes the `netflix_titles.csv` dataset, which comprises **8,807 o
 
 ---
 
-## 🛠️ Data Wrangling & Pipeline Cleanliness
+## Data Wrangling and Pipeline Cleanliness
 
 To ensure visual accuracy and mathematical validity, the notebook implements a strict data pre-processing and cleaning phase:
 
