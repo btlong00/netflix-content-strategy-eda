@@ -115,6 +115,3 @@ The notebook systematically maps four core analytical components:
   * `matplotlib.pyplot` - Canvas definition and structural layout styling.
   * `seaborn` - High-level interface for statistical thematic categorical plots.
 * **Environment Compatibility:** Designed with dynamic file pathways adaptable for local Jupyter notebook runtimes or cloud-based instances (Google Colab).
-
----
-*Analysis generated as part of the Netflix Catalog Exploratory Data Engineering Series.*
