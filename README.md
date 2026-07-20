@@ -7,7 +7,7 @@ A comprehensive, end-to-end Python-based Exploratory Data Analysis (EDA) on the 
 ## 📌 Table of Contents
 1. [Project Overview](#-project-overview)
 2. [Dataset Architecture](#-dataset-architecture)
-3. [Data Wrangling & Pipeline Cleanliness](#-data-wrangling--pipeline-cleanliness)
+3. [Data Wrangling & Pipeline Cleanliness](#data-wrangling--pipeline-cleanliness)
 4. [Exploratory Data Analysis & Visualizations](#-exploratory-data-analysis--visualizations)
 5. [Key Tactical Insights](#-key-tactical-insights)
 6. [Tech Stack & Execution Environment](#-tech-stack--execution-environment)
